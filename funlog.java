@@ -17,7 +17,7 @@ List<List<Map<String, String>>> childData = new ArrayList<List<Map<String, Strin
 
 // lemaradtunk a boxról...
 
-// Maleczki "Terminátor" Marci és Attila skypeolnak:
+// "Terminátor" Marci és Attila skypeolnak:
 // A: van vonal?
 // M: negatív
 // A: és most?
