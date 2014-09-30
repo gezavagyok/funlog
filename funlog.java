@@ -96,3 +96,9 @@ List<List<Map<String, String>>> childData = new ArrayList<List<Map<String, Strin
 // Csaba: már csak egy adag kávé van, úgyhogy azt teszem amit minden úriember tenne ebben a helyzetben: gyorsan lefőzöm magamnak.
 
 // Csaba: hát kávé az elfogyott, mert valaki tegnap gyorsan megnyomta a gombot. Viszont ha nagyon szereted a kávét akkor még van olyan zacc, ami nincs annyira kiázva... (Penészes a zacctartály)
+
+// be akartuk rakni a ventillátort a 'hűvös' szobába, hátha kifújja onnan a hideget az irodába.
+
+// az idő meleg a lányok lazábban öltözködnek, az iroda ablakai meg alufóliázva vannak. nem szép, cserébe jó ronda.
+
+// Csaba: "... ez a készítmény paracetanolt tartalmaz, ami mellett nem kerülhet alkohol a szervezetedbe 48 órával megelőzőleg, ilyen periódus viszont életkorodból fakadóan nincs..."
